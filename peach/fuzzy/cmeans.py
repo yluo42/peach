@@ -10,7 +10,7 @@
 __doc__ = """
 Fuzzy C-Means
 
-Fuzzy C-Means is a clustering algorithm based no fuzzy logic.
+Fuzzy C-Means is a clustering algorithm based on fuzzy logic.
 
 This package implements the fuzzy c-means algorithm for clustering and
 classification. This algorithm is very simple, yet very efficient. From a
