@@ -52,6 +52,11 @@ Contents:
    tutorial/tutorial.rst
    demos/demos.rst
 
+.. toctree::
+   :maxdepth: 2
+
+   api/index.rst
+
 
 Indices and tables
 ==================

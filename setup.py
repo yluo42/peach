@@ -18,7 +18,7 @@ long_description = '''
 
 setup(
     name='Peach',
-    version='0.1.3',
+    version='0.3.1',
     url='http://code.google.com/p/peach/',
     download_url='http://code.google.com/p/peach/downloads/list',
     license='GNU Lesser General Public License',
